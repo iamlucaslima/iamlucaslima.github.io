@@ -1,0 +1,1 @@
+This is a project focused on practicing front-end skills and technologies as I learn them.
