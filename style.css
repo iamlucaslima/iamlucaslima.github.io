@@ -1,12 +1,14 @@
 body {
     background-color: #8ecae6;
     color: #023047;
+    font-family: 'Crimson Text';
+    font-size: 18px;
 }
 
 img {
     border-radius:;
 }
 
-[type='radio'] {
-    color: #e05c34;
+h1, h2 {
+    font-family: Pacifico;
 }
